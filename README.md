@@ -74,15 +74,3 @@ Feel free to explore, modify, and use these resources for your learning journey.
 ## Usage
 
 You are encouraged to use the materials in this repository for self-study, coursework, or personal projects. Please refer to the individual folders for specific instructions on how to use the code and notebooks.
-
-## Contributing
-
-We welcome contributions to this repository. If you'd like to improve the content, fix issues, or add new materials, please follow our [contributing guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README to suit your specific needs, add more details, or include additional sections as necessary. This README serves as a starting point to introduce users to your data analytics repository and provide them with guidance on how to use it effectively.
