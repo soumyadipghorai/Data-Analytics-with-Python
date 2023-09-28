@@ -12,8 +12,6 @@ Welcome to the Data Analytics with Python repository, where we explore the funda
 - [Getting Started](#getting-started)
 - [Course Content](#course-content)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
